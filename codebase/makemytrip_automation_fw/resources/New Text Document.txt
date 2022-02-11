@@ -1,0 +1,3 @@
+browserName=chrome
+chromeDriverPath=D:\\makemytrip_automation\\codebase\\makemytrip_automation_fw\\resources\\config.properties
+url=https://www.makemytrip.com/

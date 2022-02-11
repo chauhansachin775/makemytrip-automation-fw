@@ -1,0 +1,11 @@
+workspace/
+bin/
+desktop.ini
+.class
+.metadata/
+codebase/makemytrip_automation_fw/bin
+.project
+.classpath
+.tmp.driveupload
+.settings
+codebase/makemytrip_automation_fw/test-output/
